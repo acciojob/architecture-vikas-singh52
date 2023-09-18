@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+table,th,tr,td{
+	border:1px  solid black;
+}
+#sec{
+	width:1100px;
+	background-color:pink;
+}
+#img1{
+	width:600px;
+}
+.small{
+	width:200px;
+}
+.large{
+	width:600px;
+	text-align:center;
+}
+#img3{
+	margin-top:0%;
+}
